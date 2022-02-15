@@ -1,0 +1,72 @@
+KOCAELİ ÜNİVERSİTESİ  
+
+MÜHENDİSLİK FAKÜLTESİ 
+
+BİLGİSAYAR MÜHENDİSLİĞİ BÖLÜMÜ 
+
+ARAŞTIRMA PROBLEMLERİ
+
+KARGO DAĞITIM PROJESİ
+
+   RECEP KOCA
+FURKAN BEYAZ
+
+Prof.Dr. Yaşar BECERİKLİ 
+Danışman, Kocaeli Üniv. 
+Prof.Dr. Nevcihan DURU  
+Jüri Üyesi, Kocaeli Üniv. 
+Dr. Öğr. Üyesi Orhan AKBULUT 
+Jüri Üyesi, Kocaeli Üniv. 
+
+................................................ 
+
+................................................ 
+
+................................................ 
+
+Tezin Savunulduğu Tarih: 01.06.2018 
+
+Bu dokümandaki tüm bilgiler, etik ve akademik kurallar çerçevesinde elde edilip sunulmuştur. 
+Ayrıca yine bu kurallar çerçevesinde kendime ait olmayan ve kendimin üretmediği ve başka 
+kaynaklardan elde edilen bilgiler ve materyaller (text, resim, şekil, tablo vb.) gerekli şekilde 
+referans edilmiş ve dokümanda belirtilmiştir. 
+
+Öğrenci No: 190201014 
+Adı Soyadı: Recep KOCA 
+
+İmza:………………………………….. 
+
+Öğrenci No: 190201060 
+Adı Soyadı: Furkan BEYAZ
+
+İmza:………………………………….. 
+
+BULUT SİSTEMLERİ KULLANILARAK KARGO DAĞITIM UYGULAMASI 
+PROGRAMLAMA 
+
+ÖZET 
+
+Kargo  dağıtım  projesinde  masaüstü  uygulama  yapmamız  istenmiştir.  Bulut  platformu,  API, 
+thread,  dikstra  algoritmaları  kullanmamız  gerekmektedir.  Uygulamanın  işleyişinde  2  adet 
+arayüz  bulunması  gerekmektedir.  1.  arayüzde  teslimat  bilgileri  login  girişi  ;  2.arayüzde  ise 
+harita  ile  ilgili  bilgiler  yer  almaktadır.  Teslim  edilecek  kargoların  konumları  harita  üzerine 
+tıklanarak  ve  ayrıca  manuel  olarak  da  girilebilecek  şekilde  olmalıdır.  Kullanıcının  konum 
+bilgileri harita üzerinden alınacaktır ve elle de giriş yapılabilmesi sağlanmalıdır.  Ayrıca bu 
+bilgiler  masaüstü    uygulaması  kullanılarak  girilecek  olup  bulut  veri  tabanında  tutulması 
+gerekmektedir. Kullanıcı konum bilgilerini alarak kargoları en kısa yoldan ve dolayısıyla en 
+kısa  süreden  teslim  etmesi  gerekmektedir.  Bulut  platformunda  ise  veri  tabanı  oluşturulup 
+kargoya  ait  bilgiler  tutulmalıdır  ve  yazılan  API  ile  bulut  platformunun  haberleşmesi 
+gerekmektedir. 
+
+Projede  nesneye  yönelik  programlama    ,  API  işlemleri  ,  thread  mantığının    geliştirilmesi 
+amaçlanmaktadır.  Uygulama  masaüstü  olarak 
+ile 
+uygulamamız ve bulut veri tabanımız haberleşmektedir. Uygulamanın amacı verilen teslimat 
+bilgilerini oluşturup veri tabanındaki adrese en kısa yoldan teslim etmektir. Projede C# diliyle 
+yazılmış olup geliştirme ortamı olarak Visual Studio kullanılmıştır. 
+
+tasarlanmıştır.  Yazdığımız  API 
+
+Anahtar  kelimeler: APİ, Cloud Platform, Thread, Dijikstra, Map. 
+
+
