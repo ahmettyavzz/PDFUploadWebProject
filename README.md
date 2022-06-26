@@ -1,2 +1,2 @@
 # websiteProject
-Pdf dosyası yükleyebildiğimiz, admin panelinden bu dosyaları okuyup filtreleyebildiğimiz bir website projesi.
+It is a website project where we can upload pdf files, read and filter these files from the admin panel.
